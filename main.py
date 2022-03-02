@@ -1,3 +1,4 @@
+#это полный провал. Я совсем тут нагородила. Помогите, пожалуйста, разобраться.
 class Student:
     def __init__(self, name, surname, gender):
         self.name = name
